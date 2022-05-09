@@ -1,1 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #000;
+  font-family: "Roboto", sans-serif;
+}
 
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+}
